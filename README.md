@@ -67,8 +67,8 @@ A complete RTL design of the classic Snake game built with Verilog HDL on Intel 
 
 <!-- TODO: Add the block diagram exported from the report or draw.io -->
 <p align="center">
-  <img width="1530" height="1095" alt="snake_top_architecture_colour" src="https://github.com/user-attachments/assets/11b760b8-5aa5-4c47-979f-17d21b1b1741" />
- </p>
+  <img width="816" height="876" alt="snake_top_architecture_colour" src="https://github.com/user-attachments/assets/11b760b8-5aa5-4c47-979f-17d21b1b1741" />
+</p>
 
 Data flow in brief: `CLOCK_50` goes into `vga_pll`, producing the 25.175 MHz pixel clock. A counter divides it down to a roughly 6 Hz game tick. The position controller moves the snake and detects collisions, the random generator supplies apple positions, and `vga_controller` (with the score and game-over text generators) draws everything and drives the ADV7123 VGA DAC.
 
@@ -237,10 +237,9 @@ Target device: **Cyclone IV E EP4CE115F29C7**.
 
 ### Demo video
 
-<!-- TODO: Add a link to a demo video (YouTube / Drive) -->
-[Watch the demo](https://YOUR-VIDEO-LINK)
 
----
+https://github.com/user-attachments/assets/092dc8e3-2eca-484a-a154-2a10f3aae699
+
 
 ## Future Work
 
