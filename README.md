@@ -215,20 +215,20 @@ Target device: **Cyclone IV E EP4CE115F29C7**.
 ### Game over screen
 
 <p align="center">
-  <img width="1200" height="675" alt="game over" src="https://github.com/user-attachments/assets/ba54d7df-26f2-452f-a04c-4cffe6e977a7" />
+  <img width="800" height="450" alt="game over" src="https://github.com/user-attachments/assets/ba54d7df-26f2-452f-a04c-4cffe6e977a7" />
 </p>
 
 ### Compilation summary
 
 <p align="center">
-  <img src="images/compilation_report.png" alt="Quartus compilation flow summary (add screenshot here)" width="70%">
+  <img width="1150" height="636" alt="snake_game compilationreport" src="https://github.com/user-attachments/assets/c79dc472-908d-4ba0-8bf6-9de004389a1d" />
 </p>
 
 | Resource | Used / Available |
 |---|---|
-| Total logic elements | *xxxx* / 114,480 |
-| Total registers | *xxxx* |
-| Total pins | *xx* / 529 |
+| Total logic elements | 8240 / 114,480 |
+| Total registers | 1841 |
+| Total pins | 35 / 529 |
 | PLLs | 1 / 4 |
 
 | Clock | Required | Fmax achieved |
