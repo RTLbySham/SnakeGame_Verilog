@@ -233,7 +233,7 @@ Target device: **Cyclone IV E EP4CE115F29C7**.
 
 | Clock | Required | Fmax achieved |
 |---|---|---|
-| `vga_clk` | 25.175 MHz | *xx.xx* MHz |
+| `vga_clk` | 25.175 MHz | 68.75 MHz |
 
 ### Demo video
 
