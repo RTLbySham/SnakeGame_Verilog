@@ -67,7 +67,7 @@ A complete RTL design of the classic Snake game built with Verilog HDL on Intel 
 
 <!-- TODO: Add the block diagram exported from the report or draw.io -->
 <p align="center">
-  <img<img width="2040" height="2190" alt="snake_top_architecture_colour" src="https://github.com/user-attachments/assets/ece14202-77ec-49ba-a95d-7ef206c2f0a3" />
+  <img width="2040" height="2190" alt="snake_top_architecture_colour" src="https://github.com/user-attachments/assets/11b760b8-5aa5-4c47-979f-17d21b1b1741" />
  </p>
 
 Data flow in brief: `CLOCK_50` goes into `vga_pll`, producing the 25.175 MHz pixel clock. A counter divides it down to a roughly 6 Hz game tick. The position controller moves the snake and detects collisions, the random generator supplies apple positions, and `vga_controller` (with the score and game-over text generators) draws everything and drives the ADV7123 VGA DAC.
@@ -195,19 +195,25 @@ Target device: **Cyclone IV E EP4CE115F29C7**.
 ### Gameplay on hardware
 
 <p align="center">
-  <img src="images/gameplay.jpg" alt="Snake game running on the DE2-115 (add photo here)" width="60%">
+  <img width="1600" height="900" alt="button operating" src="https://github.com/user-attachments/assets/b88c7ec1-8e18-4478-b4fc-0a53bea9d51b" />
 </p>
 
+<p align="center">
+  <img width="1600" height="900" alt="score 0" src="https://github.com/user-attachments/assets/1b3a9953-b0fa-4bc8-8865-a9ec287cb0cd" />
+</p>
 ### Score display
 
 <p align="center">
-  <img src="images/score.jpg" alt="Snake eating apples with score in the top-left (add photo here)" width="60%">
+  <img width="1600" height="900" alt="score 70" src="https://github.com/user-attachments/assets/820ff360-4e83-419b-a3e2-62b5d97400d1" />
 </p>
 
+<p align="center">
+  <img width="1600" height="900" alt="score 80" src="https://github.com/user-attachments/assets/b6fc2eca-5402-4847-be07-b245127601de" />
+</p>
 ### Game over screen
 
 <p align="center">
-  <img src="images/gameover.jpg" alt="GAME OVER screen after a collision (add photo here)" width="60%">
+  <img width="1600" height="900" alt="game over" src="https://github.com/user-attachments/assets/ba54d7df-26f2-452f-a04c-4cffe6e977a7" />
 </p>
 
 ### Compilation summary
