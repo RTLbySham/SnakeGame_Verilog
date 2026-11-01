@@ -195,21 +195,21 @@ Target device: **Cyclone IV E EP4CE115F29C7**.
 ### Gameplay on hardware
 
 <p align="center">
-  <img width="1200" height="675" alt="game over" src="https://github.com/user-attachments/assets/ba54d7df-26f2-452f-a04c-4cffe6e977a7" />
+  <img width="800" height="450" alt="button operating" src="https://github.com/user-attachments/assets/67b21654-7d59-4f3e-93b0-113c4e8c4f9c" />
 </p>
 
 <p align="center">
-  <img width="1200" height="675" alt="game over" src="https://github.com/user-attachments/assets/ba54d7df-26f2-452f-a04c-4cffe6e977a7" />
+  <img width="800" height="450" alt="score 0" src="https://github.com/user-attachments/assets/d392089f-9727-4396-a9b8-a75c85fd091e" />
 </p>
 
 ### Score display
 
 <p align="center">
-  <img width="1200" height="675" alt="game over" src="https://github.com/user-attachments/assets/ba54d7df-26f2-452f-a04c-4cffe6e977a7" />
+  <img width="800" height="450" alt="score 70" src="https://github.com/user-attachments/assets/7fb0a34e-c4c3-44be-bc86-2990d9109313" />
 </p>
 
 <p align="center">
-  <img width="1200" height="675" alt="game over" src="https://github.com/user-attachments/assets/ba54d7df-26f2-452f-a04c-4cffe6e977a7" />
+  <img width="800" height="450" alt="score 80" src="https://github.com/user-attachments/assets/0bdda012-7639-4c65-b565-da805812437a" />
 </p>
 
 ### Game over screen
