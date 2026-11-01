@@ -1,6 +1,6 @@
 # Snake Game on FPGA using Verilog HDL
 
-A hardware-only implementation of the classic **Snake** game in Verilog, running on the **Terasic DE2-115** (Intel Cyclone IV E) with **VGA** output at 640×480 @ 60 Hz. No soft processor is used: clocking, game logic, pseudo-random apple placement, score display and VGA rendering are all done in RTL.
+A complete RTL design of the classic Snake game built with Verilog HDL on Intel Cyclone IV E FPGA (DE2-115). Integrates custom VGA DAC drivers, double-dabble BCD score rendering, and hardware collision detection.
 
 <!-- TODO: Replace with a photo or GIF of the game running on the board -->
 <p align="center">
